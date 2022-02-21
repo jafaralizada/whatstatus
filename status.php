@@ -23,7 +23,7 @@ if ($_GET['durum'] == "sene_eklendi") {
 
 						
 
-          	<h3><i class="fa fa-angle-right"></i> Plan Ekle</h3>
+          	<h3><i class="fa fa-angle-right"></i> birsey Ekle</h3>
                                                               <!-- BASLANGIC -->
 
                                                               <h5 class="centered">  
